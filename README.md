@@ -38,8 +38,7 @@ Example preview of the game UI
 
 ## 🌐 Live Demo
 
-🔗 [Play the Game on GitHub Pages]([https://your-username.github.io/guess-movie-game/](https://jatinwadhwani123.github.io/guess-movie-game/
-))  
+🔗 [Play the Game on GitHub Pages](https://jatinwadhwani123.github.io/guess-movie-game/)  
 ---
 ✍️ Author
 
